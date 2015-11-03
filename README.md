@@ -1,0 +1,2 @@
+# rabbit_consumer
+基于rabbitmq的topic key封装的线程池版本的consumer
